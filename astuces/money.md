@@ -61,3 +61,6 @@ Voici un petit guide sur la plupart des stratégies que j'utilise pour générer
 - Investissement : +++--
 - Bénéfices : +++--
 > On achète des Divination Cards à l'unité, dont la récompense une fois le stack échangé, vaudra plus que le prix total des cartes. Ca demande un peu de connaissances, et les prix varient. Il y avait un excellent site qui listait tous ces "tricks", mais il semble down : https://poeprofit.com/
+
+
+<div style="text-align: right"><p>Réalisé par : **Koalahoe Akbar**</p></div>
