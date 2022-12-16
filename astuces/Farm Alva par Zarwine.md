@@ -5,6 +5,7 @@
 - Facile à faire
 - Donne beaucoup de pex et maps
 - Peut rendre riche d'un coup
+- Parfait pour les build avec un bon clear
 
 #### Les - : 
 - Peut devenir dur en lategame
@@ -27,6 +28,11 @@
 - Les currency : Assure quelques ressources (Déjà vu une mirror shard !)
 - Les maps : Fait toujours plaisir
 - Les bijoux : Peut rapporter énormément grace aux item synthesis
+- Atziri ? Je n'en suis pas sûr mais depuis la 3.20 c'est probablement intéressant
+
+Et à éviter :
+- Les pièges ! 
+- Life regen
 
 ### Quels items corrompre ?
 
@@ -42,6 +48,12 @@ Rien de plus simple ! Il suffit de regarder la liste sur ce lien : https://poe.n
 ### Quels items sacrifier ? 
 
 Des ceintures ! Bien entendu ! 
+
+### L'Omnitect 
+
+- Il peut parfois loot des items gold qui coutent la blinde. 
+- Toujours regarder la belt unique, celle qui donne 48% all resist est un excellent item de leveling
+- Loot parfois des vials qui coutent quelques chaos
 
 <hr>
 
