@@ -38,6 +38,7 @@ Et à éviter :
 
 - Prism Guardian : Si Aura en implicit, c'est jackpot
 - Shavronne : Même sans les link
+- Shaper's touch : Ne coute rien et curse on hit peut rapporter pas mal
 
 [En cours d'édition..]
 
