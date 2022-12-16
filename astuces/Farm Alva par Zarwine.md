@@ -28,16 +28,20 @@
 - Les maps : Fait toujours plaisir
 - Les bijoux : Peut rapporter énormément grace aux item synthesis
 
-### Quels items sacrifier ?
+### Quels items corrompre ?
 
 - Prism Guardian : Si Aura en implicit, c'est jackpot
 - Shavronne : Même sans les link
 
 [En cours d'édition..]
 
-### Quelles gems sacrifier ? 
+### Quelles gems corrompre ? 
 
 Rien de plus simple ! Il suffit de regarder la liste sur ce lien : https://poe.ninja/challenge/skill-gems?level=21
+
+### Quels items sacrifier ? 
+
+Des ceintures ! Bien entendu ! 
 
 <hr>
 
