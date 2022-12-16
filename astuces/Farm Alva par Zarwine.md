@@ -38,3 +38,7 @@
 ### Quelles gems sacrifier ? 
 
 Rien de plus simple ! Il suffit de regarder la liste sur ce lien : https://poe.ninja/challenge/skill-gems?level=21
+
+<hr>
+
+Réalisé par : **Zarwine**
