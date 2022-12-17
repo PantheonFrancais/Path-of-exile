@@ -58,4 +58,12 @@ Des ceintures ! Bien entendu !
 
 <hr>
 
+### Contribution : 
+#### Vindoq
+Au niveau 83, les mods du temple sur des rares/magique peuvent valoir, franchement, c'est plus simple et rapide de vendre les nexus de corruption. Peut être un mot sur les autres salles à viser comme celui qui augmente les niveaux ? La salles de sacrifice est parfois plus intéressante à vendre ou juste à flip un unique du temple avec une fiole. Les chances d'obtenir un unique t0 est juste trop faible
+
+Pour la chambre de gemme 21/23, c'est principalement ça qu'il faut regarder, mais c'est aussi intéressant sur les gemmes éveillé et exceptionnelle. L'investissement est un peu plus cher mais y a plus de chance d' avoir juste le +1 niveau comparé à une vaal, ce qui fait que c'est rentable même si on raté le +3 qualité
+
+
 Réalisé par : **Zarwine**
+
